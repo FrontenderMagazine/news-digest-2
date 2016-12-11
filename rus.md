@@ -119,4 +119,4 @@ Styletron — новый инструмент для CSS в JS, отличающ
 [14]: http://vk.com/forwebdev
 
 [working the command line]: img/working-the-command-line.jpg "Working the command line"
-[javascript 30]: img/javascript30.jpg "javascript 30"
+[javascript 30]: img/javascript30.png "javascript 30"
